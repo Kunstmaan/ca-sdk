@@ -33,8 +33,7 @@ The source tree for includes the following files and directories:
 
 Usage
 -----
-
-The minimal you'll need to have is:
+The [examples][examples] are a good place to start, the minimal you'll need to know is:
 
     <?php
 
