@@ -5,7 +5,7 @@ CollectiveAccess SDK for PHP
 functionality through a number of web services that can be accessed by other software, 
 developed in any programming language you like.
 
-This repositoy contains an open source PHP SDK that allows you to utilize the above 
+This repository contains an open source PHP SDK that allows you to utilize the above 
 webservices on your website.
 
 This is a work in progress, we have modified the web services for CA and extended it with
