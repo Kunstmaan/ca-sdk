@@ -69,3 +69,4 @@ Additional Information
 
 * CollectiveAccess: <http://www.collectiveaccess.org/>
 * Kunstmaan: <http://www.kunstmaan.be>
+* Drupal module to load this PHP SDK: <http://github.com/Kunstmaan/ca-sdk-loader>
